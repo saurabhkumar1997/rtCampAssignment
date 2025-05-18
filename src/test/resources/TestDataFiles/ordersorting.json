@@ -1,0 +1,13 @@
+{  "fileName": "ordersorting",
+  "scenarios": [
+    {
+      "scenarioName": "Verify the sorting order displayed for Z-A on the “All Items” page",
+      "testData": [
+        {
+          "UserName": "standard_user",
+          "Password": "secret_sauce"
+        }
+      ]
+    }
+  ]
+}
