@@ -1,0 +1,12 @@
+{
+  "TestDataFilePath": "src/test/resources/TestDataFiles/",
+  "BaseUrl": "https://www.saucedemo.com/",
+  "webdriver_wait": "30",
+  "Resources": "/src/test/resources/",
+  "ExecutionBrowser": "chromium",
+  "Screenshot": "Screenshots",
+  "TestResultsDir": "test-output/",
+  "RecordVideo": "False",
+  "validationTag": "@validation",
+  "CucumberFilePath": "test-output/Cucumber.json"
+}
